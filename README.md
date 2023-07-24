@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Dasha
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://i.gifer.com/origin/12/12d0b02d77cee720b3dc63853e288d25_w200.gif" width="100"/>
 </div>
 
 <!--
